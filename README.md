@@ -33,15 +33,15 @@ https://git-scm.com/book/ru/v2
 ### Про тайм-менеджмент, саморазивтие и работу в команде
 - [ ] 70% Как пасти котов - Рейвонтер Дж. Ханк. Книга о лидерстве и руководстве, о том, как первое совмещать со вторым
 - [ ] Инноваторы - Уолтер Айзексон. Книга про историю информатики и цифровую революцию
-- [ ] 7 навыков высокоэффективных людей - Стивен Р. Кови
+- [ ] 30% 7 навыков высокоэффективных людей - Стивен Р. Кови
 - [x] Джедайские техники - Максим Дорофеев
-- [ ] 70% Думай как математик - Барбара Оакли
+- [x] Думай как математик - Барбара Оакли
 
 ## <a id="title3">Видео</a>
 - [x] [Урок по Django от школы itProger](https://www.youtube.com/watch?v=L-FyeHQwo4U&list=PLDyJYA6aTY1nZ9fSGcsK4wqeu-xaJksQQ)
 - [x] [Урок по Django от канала selfedu](https://www.youtube.com/watch?v=FyTL1bnUx5I&list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F)
 - [x] [Коротко про нормальные формы баз данных](https://www.youtube.com/watch?v=zqQxWdTpSIA) Можно смотреть весь канал, много интересных видео: про SQL, TCP/IP и тд.
-- [ ] 2/28 [Алгоритмы и структуры данных.](https://www.youtube.com/watch?v=KdZ4HF1SrFs&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) 28 лекций. Тимофей Хирьяно
+- [ ] 7/28 [Алгоритмы и структуры данных.](https://www.youtube.com/watch?v=KdZ4HF1SrFs&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) 28 лекций. Тимофей Хирьяно
 - [ ] 5/23 [CS50. Гарвард, Основы программирования](https://www.youtube.com/watch?v=KdZ4HF1SrFs&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) 23 лекции
 
 ## <a id="title4">Подкасты</a>
